@@ -39,5 +39,5 @@
 <br>
 
 ## 시연 영상
-- [Langchain-RAG]([https://github.com/Kane0002/Langchain-RAG](https://www.youtube.com/watch?v=CTke2pJfizE))
+- [Langchain-RAG](https://www.youtube.com/watch?v=CTke2pJfizE)
  
