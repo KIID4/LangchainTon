@@ -18,3 +18,11 @@
 
 <br>
 <br>
+
+## 주요 기능
+##### 집회 관련 사용자의 질문에 맞게 응답을 함
+![image](https://github.com/user-attachments/assets/5fb56225-7ef4-4d01-87ee-0cb510d30212)
+
+<br>
+
+### 
