@@ -24,5 +24,8 @@
 ![image](https://github.com/user-attachments/assets/5fb56225-7ef4-4d01-87ee-0cb510d30212)
 
 <br>
+<br>
 
-### 
+## 검증 방안
+- #### 문서 내용 vs 모델 답변
+  - #### 문서의 내용과 모델의 답변을 비교하여 일치하는지 검증
