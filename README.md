@@ -35,3 +35,9 @@
 - #### 예상 질문
   - #### 임의로 지정한 질문을 통해 Quality 평가
  
+<br>
+<br>
+
+## 시연 영상
+- [Langchain-RAG]([https://github.com/Kane0002/Langchain-RAG](https://www.youtube.com/watch?v=CTke2pJfizE))
+ 
