@@ -1,0 +1,11 @@
+langchain
+langchain_openai
+langchain-text-splitters
+langchain-chroma
+
+openai
+
+pypdfium2
+pypdf
+
+streamlit
