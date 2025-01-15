@@ -39,5 +39,5 @@
 <br>
 
 ## 시연 영상
-- [Langchain-RAG](https://www.youtube.com/watch?v=CTke2pJfizE)
+- [Echo Shield](https://www.youtube.com/watch?v=CTke2pJfizE)
  
